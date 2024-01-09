@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Saurabh Davda</h1> 
 <h2 align="center">Passionate Developer</h2>
 
-# 💫 About Piyush:
-🔭 I’m currently working on API & Testing<br>👯 I’m looking to collaborate on MEARN <br>🌱 I’m currently learning TypeScript and MySQL<br>💬 Ask me about JavaScript , Api's<br>⚡ Fun fact  I Code Daily 💫
+# 💫 About Me:
+
 
 <h3 align="left">Connect With Piyush:</h3>
 <p align="left">
