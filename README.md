@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-# 📊 GitHub Stats:
-
-
