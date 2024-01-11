@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <h2 align="center">Passionate Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
 
-[![](https://visitcount.itsvg.in/api?id=piyushhhxyz&icon=0&color=6)](https://visitcount.itsvg.in)
-
 # 💫 About Saurabh:
 🔭 I’m currently exploring and building<br>
 
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-davda-spd7799/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-davda" height="30" width="40" /></a>
 </p>
-  - 📫 How to reach me **saurabhdavda7799@gmail.com**
+<a> 📫 How to reach me **saurabhdavda7799@gmail.com**</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
