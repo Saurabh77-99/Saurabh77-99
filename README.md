@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-davda-spd7799/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-davda" height="30" width="40" /></a>
 </p>
-<a 📫 How to reach me **saurabhdavda7799@gmail.com**>
+<a href="saurabhdavda7799@gmail.com"> Connect with me : saurabhdavda7799@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
