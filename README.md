@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Saurabh Davda</h1>
-<h3 align="center">A passionate developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> -->
 
 - 📫 How to reach me **saurabhdavda7799@gmail.com**
 
