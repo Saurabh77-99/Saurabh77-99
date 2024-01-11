@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me **saurabhdavda7799@gmail.com**
-
-
-
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Yo , Saurabh Davda</h1> 
 <h2 align="center">Passionate Developer</h2>
@@ -32,6 +28,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-davda-spd7799/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-davda" height="30" width="40" /></a>
+  - 📫 How to reach me **saurabhdavda7799@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
