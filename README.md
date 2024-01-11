@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/saurabh-davda-spd7799/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-davda" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otizgit" alt="otizgit" /></a> </p>
-
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Yo , Saurabh Davda</h1> 
 <h2 align="center">Passionate Developer</h2>
