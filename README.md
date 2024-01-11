@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 
-#💫 About Saurabh:
+<h3 align="left">💫 About Saurabh:</h3>
 🔭 I’m currently exploring and building<br>
 - 📫 How to reach me **saurabhdavda7799@gmail.com**
 
